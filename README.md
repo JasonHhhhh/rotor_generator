@@ -1,4 +1,4 @@
-# rotor_generator
+# rotor blade generator based on CST
 ## this project is based on matlab 
 ### This code is used to generate a small rotor 3d blade with fixed r=45mm
 ### Run the file run_airfoil.m and input the parameters.
